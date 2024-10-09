@@ -1,8 +1,4 @@
-Sure! Here's a Nessie-themed version of your typical cryptocurrency README for GitHub, with a playful tone that reflects the spirit of **Nessie Coin**:
-
----
-
-# ?? **Nessie Coin** ??
+ **Nessie Coin** 
 
 Welcome to **Nessie Coin**, the legendary meme coin inspired by the mystery of the Loch Ness Monster! ?? Nessie Coin is a mineable cryptocurrency that blends the thrill of blockchain with a bit of mythical fun. Built as a fork of Bitcoin, Nessie Coin takes the best of crypto and adds a touch of magic to the mix. Letï¿½s dive in!
 
