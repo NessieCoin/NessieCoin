@@ -21,8 +21,8 @@ Nessie Coin is a fun, community-driven meme coin project, offering the adventure
 
 1. **Clone the Nessie Coin Repo**  
    ```
-   git clone https://github.com/YOURUSERNAME/nessiecoin.git
-   cd nessiecoin
+   git clone https://github.com/NessieCoin/NessieCoin.git
+   cd NessieCoin
    ```
 
 2. **Build Nessie Coin**  
@@ -40,7 +40,7 @@ Nessie Coin is a fun, community-driven meme coin project, offering the adventure
    ./src/bitcoin-cli generate 1
    ```
 
-   Youï¿½ll be swimming in Nessie Coins in no time!
+   You'll be swimming in Nessie Coins in no time!
 
 ## **Join the Nessie Adventure!**
 
